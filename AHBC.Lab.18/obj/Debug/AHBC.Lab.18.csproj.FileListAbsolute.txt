@@ -1,0 +1,7 @@
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.exe.config
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.exe
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.pdb
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.csprojAssemblyReference.cache
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.csproj.CoreCompileInputs.cache
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.exe
+C:\Users\crazy\source\repos\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.pdb
