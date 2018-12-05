@@ -10,15 +10,15 @@ namespace AHBC.Lab._18
     {
         static void Main(string[] args)
         {
-            LinkedList<int> intList = new LinkedList<int>();
+            LinkedList<string> strList = new LinkedList<string>();
 
-            intList.AddFirst(1);
-            intList.AddFirst(2);
-            intList.AddFirst(3);
-            intList.AddFirst(4);
-            intList.AddFirst(5);
+            strList.AddFirst("a");
+            strList.AddFirst("B");
+            strList.AddFirst("C");
+            strList.AddFirst("D");
+            strList.AddFirst("E");
 
-            foreach (var item in intList)
+            foreach (var item in strList)
             {
                 Console.WriteLine(item);
             }
@@ -26,12 +26,18 @@ namespace AHBC.Lab._18
             Console.WriteLine("break");
             Console.WriteLine(" ");
 
-            Console.WriteLine(intList.RemoveAt(3));
+            Console.WriteLine(strList.RemoveAt(0));
 
-            foreach (var item in intList)
+            foreach (var item in strList)
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine(" ");
+            Console.WriteLine("BREAK");
+            Console.WriteLine(" ");
+
+            strList.PrintReverse();
 
             Console.ReadKey();
         }

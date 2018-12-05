@@ -33,5 +33,19 @@ namespace AHBC.Lab._18
 
             return boolValue;
         }
+
+        public static void PrintReverse<T>(this LinkedList<T> list)
+        {
+            for (int i = list.Count - 1; i > -1; i--)
+            {
+                list.AddLast(list.ElementAt(i));
+                list.Remove(list.ElementAt(i));
+            }
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+            }
+        }
     }
 }
