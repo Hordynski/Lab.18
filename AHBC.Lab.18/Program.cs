@@ -33,6 +33,10 @@ namespace AHBC.Lab._18
                 Console.WriteLine(item);
             }
 
+            int[] numArray = { 1, 2, 3, 2, 2, 4, 5, 5, 7, 8, 4, 4, 1, 0, 10 };
+
+            OccurenceAlgorithm.ArrayFrequency(numArray);
+
             Console.ReadKey();
         }
     }
