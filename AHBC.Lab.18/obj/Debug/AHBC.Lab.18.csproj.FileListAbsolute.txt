@@ -12,3 +12,10 @@ C:\Users\crazy\Desktop\C# projects\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18
 C:\Users\crazy\Desktop\C# projects\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.csproj.CoreCompileInputs.cache
 C:\Users\crazy\Desktop\C# projects\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.exe
 C:\Users\crazy\Desktop\C# projects\AHBC.Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.pdb
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.exe.config
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.exe
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\bin\Debug\AHBC.Lab.18.pdb
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.csprojAssemblyReference.cache
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.exe
+C:\Users\jimmy\Documents\myProjects\Grand Circus\Students\Zach Hord\Lab.18\AHBC.Lab.18\obj\Debug\AHBC.Lab.18.pdb
